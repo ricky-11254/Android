@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rimshot/TwoSum/TwoSum.csproj",
+      "projectUniqueName": "/home/rimshot/leetcode/TwoSum/TwoSum.csproj",
       "projectName": "TwoSum",
-      "projectPath": "/home/rimshot/TwoSum/TwoSum.csproj",
+      "projectPath": "/home/rimshot/leetcode/TwoSum/TwoSum.csproj",
       "packagesPath": "/home/rimshot/.nuget/packages/",
-      "outputPath": "/home/rimshot/TwoSum/obj/",
+      "outputPath": "/home/rimshot/leetcode/TwoSum/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rimshot/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
